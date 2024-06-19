@@ -2,3 +2,10 @@ streamlit==1.29.0
 pandas>=1.3.0
 scikit-learn
 altair>=4.0
+tensorflow-gpu==2.0
+plotly
+nbformat
+nltk
+spacy
+WordCloud
+gensim
